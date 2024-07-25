@@ -1,6 +1,10 @@
 # StockAdvisorBot
 An AI-powered chatbot providing real-time stock analysis, market summaries, and investment recommendations, built with Streamlit and integrated with financial data APIs.
 
+MADE BY www.dispersal.net 
+
+This bot is no-where near being complete but I will update it as much as I can.
+
 REQUIREMENTS :
 streamlit
 alpha_vantage
